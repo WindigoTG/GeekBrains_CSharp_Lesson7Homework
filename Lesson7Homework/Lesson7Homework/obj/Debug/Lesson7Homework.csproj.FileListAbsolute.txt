@@ -1,0 +1,11 @@
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\bin\Debug\Lesson7Homework.exe.config
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\bin\Debug\Lesson7Homework.exe
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\bin\Debug\Lesson7Homework.pdb
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\obj\Debug\Lesson7Homework.csprojAssemblyReference.cache
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\obj\Debug\Lesson7Homework.Form1.resources
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\obj\Debug\Lesson7Homework.Properties.Resources.resources
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\obj\Debug\Lesson7Homework.csproj.GenerateResource.cache
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\obj\Debug\Lesson7Homework.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\obj\Debug\Lesson7Homework.exe
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\obj\Debug\Lesson7Homework.pdb
+E:\GeekBrains\Основы C#\Урок 7\Homework\Lesson7Homework\Lesson7Homework\obj\Debug\Lesson7Homework.Form2.resources
